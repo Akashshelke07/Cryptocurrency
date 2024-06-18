@@ -1,1 +1,1 @@
-# Fitness-Exercises-reactjs
+# Cryptocurrency-reactjs
